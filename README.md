@@ -1,9 +1,9 @@
 # 🐾 OpenPaw
 
-> **Coming Soon** — An advanced AI agent framework with persistent memory, dynamic skills, and multi-platform support.
+> **Coming Soon** — An advanced safety first AI agent framework written in Rust with persistent memory, dynamic skills, adaptive learning and multi-platform support.
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/license-LGPL%20%2F%20Commercial-blue.svg?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -184,7 +184,14 @@ For early access inquiries, collaboration opportunities, or questions:
 
 ## License
 
-OpenPaw will be released under the MIT License. See [LICENSE](LICENSE) file for details.
+OpenPaw is dual-licensed under:
+
+- **[LGPL-3.0](LICENSE)** — Free for open source and personal use
+- **[Commercial License](LICENSE-COMMERCIAL)** — For proprietary/commercial applications
+
+**Important:** Certain entities are permanently excluded from using this software under any license. See [LICENSE](LICENSE) file for complete terms including exclusions.
+
+To apply for a commercial license: Contact **licenses@OrigoZero.com** or see [LICENSE-COMMERCIAL](LICENSE-COMMERCIAL) for details.
 
 ---
 
