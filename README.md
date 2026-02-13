@@ -32,10 +32,15 @@
 - **Event-Driven** — Internal event bus for system-wide coordination
 
 ### Intelligence Layer
-- **Multi-Model Support** — Anthropic (Claude 3.5 Sonnet/Opus), OpenAI (GPT-4), Google (Gemini 3.0 Pro/Flash)
 - **Provider Failover** — Automatic fallback when primary provider is unavailable
 - **Thinking Modes** — Support for extended thinking (Claude, Gemini) for complex reasoning tasks
 - **Image Generation** — Built-in support for Imagen 4 and Gemini-based image generation
+
+#### Supported Providers
+- **Anthropic** — Claude 3.5 Sonnet, Claude 3.5 Opus, Claude 3 Haiku
+- **OpenAI** — GPT-4, GPT-4 Turbo, GPT-3.5 Turbo
+- **Google** — Gemini 3.0 Pro, Gemini 3.0 Flash, Gemini 2.0 Flash
+- **More coming soon** — Azure OpenAI, Mistral, Cohere, local models via Ollama
 
 ### Skills & Tools
 - **Dynamic Tool Loading** — Skills can inject custom tools at runtime via YAML definitions
@@ -56,11 +61,16 @@
 - **Smart Compaction** — AI-powered conversation analysis preserves context while reducing tokens
 - **Tool Call Filtering** — Model can mark redundant/failed tool calls to keep history clean
 
-### Integrations
-- **Telegram** — Full-featured bot with inline keyboards, file upload/download, permissions
+### Clients
+- **Telegram Bot** — Full-featured bot with inline keyboards, file upload/download, rich permissions
 - **Web UI** — Dark-themed control panel with real-time WebSocket streaming
-- **MCP Servers** — Calendar, filesystem, GitHub, and custom MCP server support
+- **CLI REPL** — Interactive terminal interface with full tool access
+- **More coming soon** — Discord bot, Slack integration, HTTP API, desktop app
+
+### Integrations
+- **MCP (Model Context Protocol)** — Calendar, filesystem, GitHub, and custom MCP server support
 - **Marketplace** — Browse and install skills from ClawHub and Claude Code plugin registries
+- **More coming soon** — Zapier, n8n, Home Assistant, IFTTT, REST API webhooks
 
 ---
 
