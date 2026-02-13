@@ -1,0 +1,82 @@
+OpenPaw - AI Agent Framework
+Copyright (C) 2025 [OrigoZero]
+
+This software is dual-licensed:
+
+================================================================================
+OPEN SOURCE LICENSE (LGPL-3.0)
+================================================================================
+
+OpenPaw is free software: you can redistribute it and/or modify it under the
+terms of the GNU Lesser General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option)
+any later version.
+
+OpenPaw is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for
+more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+Full LGPL-3.0 text: https://www.gnu.org/licenses/lgpl-3.0.html
+
+--------------------------------------------------------------------------------
+ADDITIONAL TERMS UNDER SECTION 7 OF LGPL-3.0
+--------------------------------------------------------------------------------
+
+Pursuant to Section 7 of the GNU Lesser General Public License version 3.0,
+the following additional restrictions apply:
+
+LICENSE EXCLUSION:
+
+The following entities are PERMANENTLY and IRREVOCABLY EXCLUDED from using,
+copying, modifying, distributing, or otherwise exploiting this software under
+ANY license terms (including but not limited to this LGPL-3.0 license and any
+commercial license):
+
+1. [StarStuff] (registered name: [StarStuff Oy])
+2. All subsidiaries of the above entity
+3. All parent companies of the above entity
+4. All affiliates and related entities of the above entity
+5. Any successor organizations to the above entities
+6. Any person or organization acting on behalf of, in association with, or
+   for the benefit of any of the above entities
+
+This exclusion applies to all versions of this software, past, present, and
+future. Any use by the excluded entities constitutes willful copyright
+infringement and breach of license terms, and will be prosecuted to the
+fullest extent of applicable law.
+
+The excluded entities may NOT obtain a commercial license or any other form
+of authorization to use this software under any circumstances.
+
+================================================================================
+COMMERCIAL LICENSE
+================================================================================
+
+For proprietary or commercial use by entities NOT excluded above, a separate
+commercial license is required. Commercial licensing includes:
+
+- Use in closed-source/proprietary applications
+- Embedding in commercial products without LGPL obligations
+- Priority support and maintenance
+- Custom feature development
+- Service level agreements
+
+To apply for a commercial license, contact: licenses@OrigoZero.com
+
+Commercial license terms are negotiable and will be provided separately.
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
