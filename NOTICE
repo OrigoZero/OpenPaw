@@ -1,0 +1,49 @@
+OpenPaw - AI Agent Framework
+Copyright (C) 2025 [Your Name]
+
+This product includes software developed at [OrigoZero].
+
+================================================================================
+LICENSE NOTICE
+================================================================================
+
+This software is dual-licensed under:
+- GNU Lesser General Public License v3.0 (LGPL-3.0) for open source use
+- Separate commercial license for proprietary use
+
+See LICENSE file for complete terms.
+
+================================================================================
+IMPORTANT: LICENSE EXCLUSION
+================================================================================
+
+The following entity and all related organizations are PERMANENTLY EXCLUDED
+from using this software under any license:
+
+[StarStuff] and all subsidiaries, affiliates, parent companies, and related
+entities.
+
+Any use by excluded entities constitutes copyright infringement.
+
+See LICENSE file for complete exclusion terms.
+
+================================================================================
+THIRD-PARTY COMPONENTS
+================================================================================
+
+This software includes or depends on the following third-party components:
+
+- Rust Standard Library (MIT/Apache-2.0)
+- tokio (MIT)
+- sqlx (MIT/Apache-2.0)
+- axum (MIT)
+- teloxide (MIT)
+- headless_chrome (MIT/Apache-2.0)
+
+See Cargo.toml and individual dependency licenses for details.
+
+================================================================================
+
+For questions about licensing, commercial use, or other inquiries:
+- Licensing: licenses@OrigoZero.com
+- GitHub Issues: https://github.com/[OrigoZero]/OpenPaw/issues
